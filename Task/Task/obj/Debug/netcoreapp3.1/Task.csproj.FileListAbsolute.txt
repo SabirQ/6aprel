@@ -1,0 +1,8 @@
+C:\Users\sabirmg\Desktop\5aprel\Task\Task\obj\Debug\netcoreapp3.1\Task.csproj.AssemblyReference.cache
+C:\Users\sabirmg\Desktop\5aprel\Task\Task\obj\Debug\netcoreapp3.1\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabirmg\Desktop\5aprel\Task\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfoInputs.cache
+C:\Users\sabirmg\Desktop\5aprel\Task\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfo.cs
+C:\Users\sabirmg\Desktop\5aprel\Task\Task\obj\Debug\netcoreapp3.1\Task.csproj.CoreCompileInputs.cache
+C:\Users\sabirmg\Desktop\5aprel\Task\Task\obj\Debug\netcoreapp3.1\Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sabirmg\Desktop\5aprel\Task\Task\obj\Debug\netcoreapp3.1\Task.RazorAssemblyInfo.cache
+C:\Users\sabirmg\Desktop\5aprel\Task\Task\obj\Debug\netcoreapp3.1\Task.RazorAssemblyInfo.cs
